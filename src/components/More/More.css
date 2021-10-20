@@ -1,0 +1,14 @@
+.margin{
+    background-color:  #EAFAF1;
+}
+
+@media only screen and (max-width:688px) {
+    .margin{
+        margin-left: 25px ;
+    }
+}
+@media only screen and (min-width:689px) and (max-width: 991px){
+    .margin{
+        margin-left: 25px ;
+    }
+}
